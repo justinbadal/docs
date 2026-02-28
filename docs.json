@@ -1,7 +1,9 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "appearance": "dark",
+  "appearance": {
+    "default": "dark"
+  },
   "name": "BadalMD",
   "colors": {
     "primary": "#ba372a",
