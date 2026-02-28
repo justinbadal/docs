@@ -15,14 +15,14 @@
   "navbar": {
     "links": [
       {
-        "label": "Baylor College of Medicine",
-        "href": "https://www.bcm.edu/departments/urology"
+        "label": "Justin Badal, MD",
+        "href": "https://badalmd.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "📞 713-798-4001",
-      "href": "tel:7137984001"
+      "label": "📞 (541) 706-4200",
+      "href": "tel:5417064200"
     }
   },
   "navigation": {
@@ -62,8 +62,8 @@
     "global": {
       "anchors": [
         {
-          "anchor": "BCM Urology",
-          "href": "https://www.bcm.edu/departments/urology",
+          "anchor": "Justin Badal, MD",
+          "href": "https://badalmd.com",
           "icon": "hospital"
         }
       ]
