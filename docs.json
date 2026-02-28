@@ -29,12 +29,26 @@
     }
   },
   "navigation": {
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Justin Badal, MD",
+          "icon": "user-doctor",
+          "color": {
+            "light": "#a31530",
+            "dark": "#a31530"
+          },
+          "href": "https://badalmd.com"
+        }
+      ]
+    },
     "tabs": [
       {
         "tab": "About",
         "groups": [
           {
-            "group": "Dr. Justin Badal, MD",
+            "group": "About",
+            "icon": "square-info",
             "pages": [
               "introduction"
             ]
@@ -61,16 +75,7 @@
           }
         ]
       }
-    ],
-    "global": {
-      "anchors": [
-        {
-          "anchor": "Justin Badal, MD",
-          "href": "https://badalmd.com",
-          "icon": "hospital"
-        }
-      ]
-    }
+    ]
   },
   "contextual": {
     "options": [
